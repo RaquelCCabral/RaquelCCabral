@@ -7,6 +7,13 @@
 - 🤔 Interesse em novas tecnologias
 - ⚡ Curiosidade: Amo jogos e videogames
 - 🏋️‍♀️ Hobbie: Praticar musculação
+- 📫 Contato:
+
+<div> 
+  <a href = "mailto:rackcorteletti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raquel-corteletti-7a597b11a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div><br>
 
 
 <div align="center">
@@ -23,13 +30,6 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div><br>
 
-- 📫 Contato:
-
-<div> 
-  <a href = "mailto:rackcorteletti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raquel-corteletti-7a597b11a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
   
   ##
 
